@@ -21,4 +21,10 @@ public class AppiumTest {
 	{
 		System.out.println("OSApp");
 	}
+	
+	@Test
+	public void SApps()
+	{
+		System.out.println("SApp");
+	}
 }
